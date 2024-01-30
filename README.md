@@ -10,3 +10,6 @@ Similar to the Arabic dataset, it captures the nuances of various genres and wri
 The mixed dataset is a combination of both Arabic and English text, reflecting the real-world scenario where a model might encounter multilingual content.
 ## Usage
 To run the project, ensure that you have the required dependencies installed before running the code.
+## Video demo
+https://github.com/NasserMohamedEid/Text-AI-Detection/assets/107307502/f49390d3-ecbf-451b-994e-de7d1de78d8c
+
