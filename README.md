@@ -10,6 +10,9 @@ It contain human data and the equivalent AI data from sorches such as: bard, and
 Similar to the Arabic dataset, it captures the nuances of various genres and writing styles as it includes text from different sources, such as news articles, social media posts, the AI data also geneated by gpt-3.5, gpt-3, and gpt-2.
 ### Mixed Data
 The mixed dataset is a combination of both Arabic and English text, reflecting the real-world scenario where a model might encounter multilingual content.
+### Models' Performance Comparison
+![image](https://github.com/NasserMohamedEid/Text-AI-Detection/assets/156810723/f0279346-1245-493f-b0b1-fa1aac6d4de5)
+
 ## Usage
 To run the project, ensure that you have the required dependencies installed before running the code.
 ## Video demo
