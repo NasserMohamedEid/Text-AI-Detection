@@ -14,7 +14,20 @@ The mixed dataset is a combination of both Arabic and English text, reflecting t
 ![image](https://github.com/NasserMohamedEid/Text-AI-Detection/assets/156810723/f0279346-1245-493f-b0b1-fa1aac6d4de5)
 
 ## Usage
-To run the project, ensure that you have the required dependencies installed before running the code.
+To run this application, you'll need:
+- Python 
+- PyTorch 
+- GPU with CUDA support
+```python
+pip install streamlit
+pip install altair as alt
+pip install joblib
+```
+To execute the StramLit Application use the following command:
+```python
+streamlit run main.py
+```
+Ensure that you have the required dependencies installed before running the code.
 ## Video demo
 https://github.com/NasserMohamedEid/Text-AI-Detection/assets/107307502/f49390d3-ecbf-451b-994e-de7d1de78d8c
 
